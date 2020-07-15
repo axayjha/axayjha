@@ -43,11 +43,11 @@
 <h3 align="center"> About Me 💁🏻‍♂️ </h3>
 
 <div align='center'>
-    <li> 🔭 I’m currently working on MacOS Cocoa Applications </li>
+    <li> 🔭 I’m currently working on Full-Stack Development </li>
     <li> 🌱 I’m currently learning Rust </li>
     <li> 👯 I’m looking to collaborate on a systems software project </li>
     <li> 🤔 I’m looking for help with compilers </li>
-    <li> 💬 Ask me about Full Stack Development </li>
+    <li> 💬 Ask me about Algorithms and Data Structures </li>
     <li> 📫 How to reach me: @axayjha on most of the major social platforms </li>
     <li> 😄 Pronouns: He</li>
     <li> ⚡ Fun fact: You can checkout my astrophotographs at https://axayjha.github.io </li>
