@@ -1,6 +1,9 @@
 <h3 align='center'> Hello 👋 | नमस्ते 🙏 | Привет 🤚 | Hola 🤝 | Bonjour 🤙 | 你好 🤘  নমস্কার 🤗 | வணக்கம் 🙌 | 🤲 السلام عليكم  </h3>
-
+<hr>
 <!-- ## Hello 👋| Namaste 🙏 |   Privet 🤚  | Hola 🤝 | Bonjour 🤙 |  Nǐ hǎo 🤘 | Namaskar 🤗 | Vaṇakkam 🙌| As-salamu alaykum 🤲 -->
+<p align='center'>
+  <a href="https://www.linkedin.com/in/axayjha/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn👤-axayjha-blue" alt="LinkedIn"></a>
+</p>
 
 [![](https://img.shields.io/badge/LinkedIn👤-axayjha-blue)](https://www.linkedin.com/in/axayjha/)
 [![](https://img.shields.io/badge/Email📧-akshayjha%40ive.in-lightgrey)](mailto:akshayjha@live.in)
