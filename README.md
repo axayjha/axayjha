@@ -7,6 +7,10 @@
 [![](https://img.shields.io/badge/Instagram📸-axayjha-red)](http://instagram.com/axayjha)
 [![](https://img.shields.io/badge/Web🌏-axayjha.github.io-green)](http://axayjha.github.io)
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=axayjha&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Akshay's Github Stats">
+</p>
+
 - 🔭 I’m currently working on MacOS Cocoa Applications
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on a systems software project
