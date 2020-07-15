@@ -17,7 +17,7 @@
 </p>
 
 <div align='center'>
-  <ul>
+  <ul align='center'>
     <li> 🔭 I’m currently working on MacOS Cocoa Applications </li>
     <li> 🌱 I’m currently learning Rust </li>
     <li> 👯 I’m looking to collaborate on a systems software project </li>
