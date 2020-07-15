@@ -1,6 +1,6 @@
-<h3 align='center'> Hello 👋 | नमस्ते 🙏 | Привет 🤚 | Hola 🤝 | Bonjour 🤙 | 你好 🤘  নমস্কার 🤗 | வணக்கம் 🙌 | 🤲 السلام عليكم  </h3>
+<h3 align='center'> Hello 👋 | नमस्ते 🙏 | Привет 🤚 | Hola 🤝 | Bonjour 🤙 | 你好 🤘 | নমস্কার 🤗 | வணக்கம் 🙌 | 🤲 السلام عليكم </h3>
 <hr>
-<h3 align='center'> I'm Akshay 👨🏻‍💻</h3>
+<h2 align='center'> I'm Akshay 👨🏻‍💻</h2>
 <div align='center'><img src="https://github.com/axayjha/axayjha/raw/master/dev.gif" width="450px"><br></div><br>
 
 <!-- ## Hello 👋| Namaste 🙏 |   Privet 🤚  | Hola 🤝 | Bonjour 🤙 |  Nǐ hǎo 🤘 | Namaskar 🤗 | Vaṇakkam 🙌| As-salamu alaykum 🤲 -->
