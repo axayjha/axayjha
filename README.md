@@ -2,7 +2,7 @@
 <!-- ## Hello 👋| Namaste 🙏 |   Privet 🤚  | Hola 🤝 | Bonjour 🤙 |  Nǐ hǎo 🤘 | Namaskar 🤗 | Vaṇakkam 🙌| As-salamu alaykum 🤲 -->
  
 [![](https://img.shields.io/badge/LinkedIn-axayjha-blue)](https://www.linkedin.com/in/axayjha/)
-[![](https://img.shields.io/badge/✉️-akshayjha%40ive.in-red)](mailto:akshayjha@live.in)
+[![](https://img.shields.io/badge/📧-akshayjha%40ive.in-red)](mailto:akshayjha@live.in)
 [![](https://img.shields.io/badge/LeetCode-axayjha-yellow)](https://leetcode.com/axayjha)
 [![](https://img.shields.io/badge/Instagram-axayjha-red)](http://instagram.com/axayjha)
 
