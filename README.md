@@ -1,16 +1,18 @@
-### Hello 👋 | नमस्ते  🙏       | Привет 🤚 | Hola 🤝 | Bonjour 🤙 |   你好 🤘  |     নমস্কার 🤗   | வணக்கம் 🙌 | 🤲 السلام عليكم
+<h3 align='center'> Hello 👋 | नमस्ते 🙏 | Привет 🤚 | Hola 🤝 | Bonjour 🤙 | 你好 🤘  নমস্কার 🤗 | வணக்கம் 🙌 | 🤲 السلام عليكم  </h3>
+
 <!-- ## Hello 👋| Namaste 🙏 |   Privet 🤚  | Hola 🤝 | Bonjour 🤙 |  Nǐ hǎo 🤘 | Namaskar 🤗 | Vaṇakkam 🙌| As-salamu alaykum 🤲 -->
- 
+ <div align='center'>
 [![](https://img.shields.io/badge/LinkedIn👤-axayjha-blue)](https://www.linkedin.com/in/axayjha/)
 [![](https://img.shields.io/badge/Email📧-akshayjha%40ive.in-lightgrey)](mailto:akshayjha@live.in)
 [![](https://img.shields.io/badge/LeetCode👨‍💻-axayjha-yellow)](https://leetcode.com/axayjha)
 [![](https://img.shields.io/badge/Instagram📸-axayjha-red)](http://instagram.com/axayjha)
 [![](https://img.shields.io/badge/Web🌏-axayjha.github.io-green)](http://axayjha.github.io)
+ </div>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=axayjha&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Akshay's Github Stats">
 </p>
-
+<div align='center'>
 - 🔭 I’m currently working on MacOS Cocoa Applications
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on a systems software project
@@ -19,7 +21,7 @@
 - 📫 How to reach me: @axayjha on most of the major social platforms 
 - 😄 Pronouns: He
 - ⚡ Fun fact: You can checkout my astrophotographs at https://axayjha.github.io
-
+</div>
 <!--
 **axayjha/axayjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
