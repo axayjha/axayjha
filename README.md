@@ -1,5 +1,5 @@
-## Hello 👋 | नमस्ते  🙏       | Привет | Hola | Bonjour |   你好   |     নমস্কার     | வணக்கம்
-## Hello 👋| Namaste 🙏 |   Privet  | Hola | Bonjour |  Nǐ hǎo | Namaskar | Vaṇakkam
+## Hello 👋 | नमस्ते  🙏       | Привет 🤚 | Hola 🤝 | Bonjour 🤙 |   你好 🤘  |     নমস্কার 🤗   | வணக்கம் 🙌 | 🤲 السلام عليكم
+<!-- ## Hello 👋| Namaste 🙏 |   Privet 🤚  | Hola 🤝 | Bonjour 🤙 |  Nǐ hǎo 🤘 | Namaskar 🤗 | Vaṇakkam 🙌| As-salamu alaykum 🤲 -->
  
 [![](https://img.shields.io/badge/LinkedIn-axayjha-blue)](https://www.linkedin.com/in/axayjha/)
 [![](https://img.shields.io/badge/Outlook-akshayjha%40ive.in-red)](mailto:akshayjha@live.in)
