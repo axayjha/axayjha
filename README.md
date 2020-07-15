@@ -3,12 +3,17 @@
 <!-- ## Hello 👋| Namaste 🙏 |   Privet 🤚  | Hola 🤝 | Bonjour 🤙 |  Nǐ hǎo 🤘 | Namaskar 🤗 | Vaṇakkam 🙌| As-salamu alaykum 🤲 -->
 <p align='center'>
   <a href="https://www.linkedin.com/in/axayjha/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn👤-axayjha-blue" alt="LinkedIn"></a>
+  <a href="mailto:akshayjha@live.in" target="_blank"><img align="center" src="https://img.shields.io/badge/Email📧-akshayjha%40ive.in-lightgrey" alt="Email"></a>
+  <a href="https://leetcode.com/axayjha" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode👨‍💻-axayjha-yellow" alt="LeetCode"></a>
+  <a href="https://instagram.com/axayjha" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram📸-axayjha-red" alt="Instagram"></a>
+  <a href="http://axayjha.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Web🌏-axayjha.github.io-green" alt="Web"></a>
+
 </p>
 
 [![](https://img.shields.io/badge/LinkedIn👤-axayjha-blue)](https://www.linkedin.com/in/axayjha/)
 [![](https://img.shields.io/badge/Email📧-akshayjha%40ive.in-lightgrey)](mailto:akshayjha@live.in)
 [![](https://img.shields.io/badge/LeetCode👨‍💻-axayjha-yellow)](https://leetcode.com/axayjha)
-[![](https://img.shields.io/badge/Instagram📸-axayjha-red)](http://instagram.com/axayjha)
+[![](https://img.shields.io/badge/Instagram📸-axayjha-red)](https://instagram.com/axayjha)
 [![](https://img.shields.io/badge/Web🌏-axayjha.github.io-green)](http://axayjha.github.io)
 
 
