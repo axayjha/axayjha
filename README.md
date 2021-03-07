@@ -12,7 +12,7 @@
   <a href="mailto:akshayjha@live.in" target="_blank"><img align="center" src="https://img.shields.io/badge/Email📧-akshayjha%40ive.in-lightgrey" alt="Email"></a>
   <a href="https://leetcode.com/axayjha" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode👨‍💻-axayjha-yellow" alt="LeetCode"></a>
   <a href="https://instagram.com/axayjha" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram📸-axayjha-red" alt="Instagram"></a>
-  <a href="http://axayjha.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Web🌏-axayjha.github.io-green" alt="Web"></a>
+  <a href="http://akshayjha.tech" target="_blank"><img align="center" src="https://img.shields.io/badge/Web🌏-akshayjha.tech-green" alt="Web"></a>
 
 </p><br>
 
@@ -50,7 +50,7 @@
     <li> 💬 Ask me about Algorithms and Data Structures </li>
     <li> 📫 How to reach me: @axayjha on most of the major social platforms </li>
     <li> 😄 Pronouns: He/Him</li>
-    <li> ⚡ Fun fact: You can checkout my astrophotographs at https://axayjha.github.io </li>
+    <li> ⚡ Fun fact: You can checkout my astrophotographs at https://akshayjha.tech </li>
 </div>
 <br><br>
 <hr>
