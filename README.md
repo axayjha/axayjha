@@ -49,7 +49,6 @@
     <li> 🤔 I’m looking for help with DevOps </li>
     <li> 💬 Ask me about Algorithms and Data Structures </li>
     <li> 📫 How to reach me: @axayjha on most of the major social platforms </li>
-    <li> 😄 Pronouns: He/Him</li>
     <li> ⚡ Fun fact: You can checkout my astrophotographs at https://akshayjha.tech </li>
 </div>
 <br><br>
