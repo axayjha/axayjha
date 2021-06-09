@@ -44,8 +44,8 @@
 
 <div align='center'>
     <li> 🔭 I’m currently working on Full-Stack Development (Java stack | MEAN stack) </li>
-    <li> 🌱 I’m currently learning Rust and Swift  </li>
-    <li> 👯 I’m looking to collaborate on a systems software project </li>
+    <li> 🌱 I’m currently learning Microservices  </li>
+    <li> 👯 I’m looking to collaborate on a Machine learning project </li>
     <li> 🤔 I’m looking for help with DevOps </li>
     <li> 💬 Ask me about Algorithms and Data Structures </li>
     <li> 📫 How to reach me: @axayjha on most of the major social platforms </li>
