@@ -12,7 +12,7 @@
   <a href="mailto:akshayjha@live.in" target="_blank"><img align="center" src="https://img.shields.io/badge/Email📧-akshayjha%40ive.in-lightgrey" alt="Email"></a>
   <a href="https://leetcode.com/axayjha" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode👨‍💻-axayjha-yellow" alt="LeetCode"></a>
   <a href="https://instagram.com/axayjha" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram📸-axayjha-red" alt="Instagram"></a>
-  <a href="http://akshayjha.tech" target="_blank"><img align="center" src="https://img.shields.io/badge/Web🌏-akshayjha.tech-green" alt="Web"></a>
+  <a href="http://axayjha.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Web🌏-axayjha.github.io-green" alt="Web"></a>
 
 </p><br>
 
@@ -43,22 +43,24 @@
 <h3 align="center"> About Me 💁🏻‍♂️ </h3>
 
 <div align='center'>
-    <li> 🔭 I’m currently working on Full-Stack Development (Java stack | MEAN stack) </li>
-    <li> 🌱 I’m currently learning Microservices  </li>
-    <li> 👯 I’m looking to collaborate on a Machine learning project </li>
-    <li> 🤔 I’m looking for help with DevOps </li>
+    <li> 🔭 I’m currently working on Full-Stack Development (Java | Angular | React) </li>
+    <li> 🌱 I’m currently learning AWS and system design </li>
     <li> 💬 Ask me about Algorithms and Data Structures </li>
+    <li> 👯 I’m looking to collaborate on a mini film </li>
+    <li> 🤔 Talk to be me about Photography and Videography </li>
     <li> 📫 How to reach me: @axayjha on most of the major social platforms </li>
-    <li> ⚡ Fun fact: You can checkout my astrophotographs at https://akshayjha.tech </li>
+    <li> ⚡ Fun fact: You can checkout my portfolio at https://axayjha.github.io </li>
 </div>
 <br><br>
 <hr>
 <br>
+<!--
 <h3 align='center'  >Sometimes I like to write 💬</h3>
 <p align='center' align='right'>
   <a href="https://medium.com/@axayjha"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/axayjha"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+-->
 
 <img src="https://github.com/axayjha/axayjha/raw/master/wave.svg" />
 
